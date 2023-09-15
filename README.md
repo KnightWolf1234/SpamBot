@@ -19,7 +19,7 @@
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/MrRizoel/deploy-spambot](https://github.com/KnightWolf1234/SpamBot))
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=(https://github.com/KnightWolf1234/SpamBot))
 
 > kindly Watch [this video](https://t.me/Resourcez/9) for deploy process 
 
